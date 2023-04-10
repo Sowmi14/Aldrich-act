@@ -20,3 +20,62 @@
     font-size: 20px;
     margin-top: -12px;
 }
+#blog{
+    
+    margin-top: 115px;
+
+    justify-content: center;
+}
+#blog :first-child{
+    font-size: 2.3em;
+    padding-bottom: 30px;
+    
+}
+#blog img{
+    width: 270px;
+    height: 147px;
+    
+    border-radius: 6px;
+}
+div{
+    
+    width: 270px;
+    height: 370px;
+    align-content: center;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: justify;
+    text-align: left;
+    border-radius: 10px;
+   
+}
+div:nth-child(4){
+    background-color: black;
+    color: white;
+    
+    
+}
+#blog h3{
+    font-size: 23px;
+    text-align: left;
+    padding-left: 10px;
+    margin: 3px;
+}
+#blog p{
+    font-size: 16px;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    margin: 10px;
+}
+#blog a{
+    padding-left: 30px;
+    text-decoration: none;
+    color: gray;
+   
+}
+#blog a:hover{
+    color: orangered
+}
